@@ -24,5 +24,4 @@ const NewsItem = (props)=> {
                 </div>
             </div>
         )
-     
 }
